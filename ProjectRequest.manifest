@@ -1,0 +1,19 @@
+{
+	"id" : "ProjectRequest",
+	"short_name" : "Project Request",
+	"name" : "Project Request",
+	"description" : "This plugin is used to generate a request for a new project based on concepts and patient sets.",
+	"group" : "community",
+	"plugin_version" : "1.1",
+	"changes" : "Updated the plugin name.",
+	"i2b2_version" : "1.7.07",
+	"roles" : "[ 'DATA_LDS', 'DATA_DEID', 'DATA_PROT' ]", 
+	"authors" : "[ 'Mike Menids' ]",
+	"institutions" : "[ 'Partners HealthCare' ]",
+	"keywords" : "[ 'projects', 'webclient' ]",
+	"package" : "https://github.com/i2b2plugins/wc-projectRequest/archive/v1.1.zip",
+	"userManual" : "",
+	"installGuide" : "",
+	"configuration" : “None”,
+	"wikiSite" : ""
+}
