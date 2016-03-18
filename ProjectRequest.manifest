@@ -12,6 +12,7 @@
 	"institutions" : "[ 'Partners HealthCare' ]",
 	"keywords" : "[ 'projects', 'webclient' ]",
 	"package" : "https://github.com/i2b2plugins/wc-projectRequest/archive/v1.2.zip",
+	"icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-projectRequest/master/projRequest.png"
 	"userManual" : "",
 	"installGuide" : "",
 	"configuration" : "None",
